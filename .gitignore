@@ -1,2 +1,5 @@
 # vim temporary file
 .*.s*
+
+# ignore .vim
+.vim
